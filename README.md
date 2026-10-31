@@ -15,8 +15,6 @@
   🎓 Interested in Software Development and Programming.<br>
   🌱 Currently learning Java, Data Structures & Algorithms, and Web Development.<br>
   💡 Interested in building innovative applications.<br>
-  💬 Ask me about Java, Python, React.js, Django, and Web Development.<br>
-  ⚡ Fun fact: I love solving coding challenges and turning creative ideas into projects!
 </p>
 
 ---
