@@ -5,7 +5,7 @@
 <h3 align="left">💻 Aspiring Software Developer | Java Programmer | Web Developer</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&width=550&lines=Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Web+Development+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&width=550&lines=Aspiring+Software+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Web+Development+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 <p align="left">
@@ -36,10 +36,7 @@
 * 🎓 Interested in Software Development and Programming.
 * 🌱 Currently learning Java, Data Structures & Algorithms, and Web Development.
 * 💡 Passionate about building innovative applications.
-* 💬 Ask me about Java, Python, React.js, Django, and Web Development.
 * 🧩 Love solving coding challenges on LeetCode.
-* ⚡ Fun fact: I love turning creative ideas into real-world projects!
-
 ---
 
 <!-- =============== SOCIALS =============== -->
@@ -50,7 +47,7 @@
   <a href="https://github.com/ramyakeerthanaa12-pixel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:sairamyaa12@ggmail.com">
+  <a href="mailto:sairamyaa12@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -76,13 +73,13 @@
 <h3>⚙️ Backend & Database</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql" alt="Backend and Database">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Backend and Database">
 </p>
 
 <h3>🔧 Development Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
 </p>
 
 ---
